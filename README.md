@@ -8,25 +8,25 @@ The clip can be observed in the follwoing:
 
 The tracking of eagle in diferrent images have been shown in the following:
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/1.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/1.png'>
 </div>
 
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/2.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/2.png' >
 </div>
 
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/3.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/3.png' >
 </div>
 
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/4.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/4.png' >
 </div>
 
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/5.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/5.png' >
 </div>
 
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/6.png' width="100" height="100">
+<img src='https://github.com/Sarvandani/Computer_vision_object_tracking/blob/main/6.png' >
 </div>
